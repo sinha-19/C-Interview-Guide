@@ -12,36 +12,37 @@ Whether you're a student, job seeker, or professional, this guide is crafted to 
 
 ## 📚 Table of Contents
 
-The repository is structured into 15 modular chapters, each focusing on a fundamental or advanced area of C programming:
+The repository is structured into 15 modular chapters, each focusing on a fundamental or advanced area of C programming. For each chapter, a direct [video] link is provided to help you visually grasp the concepts on YouTube.
 
-| Chapter | Topic |
-| ------- | ------------------------------------------------------ |
-| 01 | [Basics of C](./01_Basics_of_C.md) |
-| 02 | [Data Types and Variables](./02_Data_Types_and_Variables.md) |
-| 03 | [Operators and Expressions](./03_Operators_and_Expressions.md) |
-| 04 | [Control Structures](./04_Control_Structures.md) |
-| 05 | [Functions](./05_Functions.md) |
-| 06 | [Arrays and Strings](./06_Arrays_and_Strings.md) |
-| 07 | [Pointers](./07_Pointers.md) |
-| 08 | [Structures and Unions](./08_Structures_and_Unions.md) |
-| 09 | [File Handling](./09_File_Handling.md) |
-| 10 | [Dynamic Memory Allocation](./10_Dynamic_Memory_Allocation.md) |
-| 11 | [Preprocessor Directives](./11_Preprocessor_Directives.md) |
-| 12 | [Storage Classes](./12_Storage_Classes.md) |
-| 13 | [C Standard Library Functions](./13_C_Standard_Library_Functions.md) |
-| 14 | [Command Line Arguments](./14_Command_Line_Arguments.md) |
-| 15 | [C Best Practices & Interview Q&A](./15_C_Best_Practices_and_Interview_QA.md) |
+| #  | Topic | Video Link |
+|----|------------------------------------------------------|-----------|
+| 01 | [Basics of C](./01_Basics_of_C.md) | [video](https://www.youtube.com/results?search_query=Basics+of+C+Programming) |
+| 02 | [Data Types and Variables](./02_Data_Types_and_Variables.md) | [video](https://www.youtube.com/results?search_query=C+Data+Types+Variables) |
+| 03 | [Operators and Expressions](./03_Operators_and_Expressions.md) | [video](https://www.youtube.com/results?search_query=C+Operators+and+Expressions) |
+| 04 | [Control Structures](./04_Control_Structures.md) | [video](https://www.youtube.com/results?search_query=C+Control+Structures+if+switch+loop) |
+| 05 | [Functions](./05_Functions.md) | [video](https://www.youtube.com/results?search_query=C+Functions+Tutorial) |
+| 06 | [Arrays and Strings](./06_Arrays_and_Strings.md) | [video](https://www.youtube.com/results?search_query=C+Arrays+and+Strings) |
+| 07 | [Pointers](./07_Pointers.md) | [video](https://www.youtube.com/results?search_query=C+Pointers+Explained) |
+| 08 | [Structures and Unions](./08_Structures_and_Unions.md) | [video](https://www.youtube.com/results?search_query=C+Structures+and+Unions) |
+| 09 | [File Handling](./09_File_Handling.md) | [video](https://www.youtube.com/results?search_query=C+File+Handling) |
+| 10 | [Dynamic Memory Allocation](./10_Dynamic_Memory_Allocation.md) | [video](https://www.youtube.com/results?search_query=C+Dynamic+Memory+Allocation+malloc+calloc+free) |
+| 11 | [Preprocessor Directives](./11_Preprocessor_Directives.md) | [video](https://www.youtube.com/results?search_query=C+Preprocessor+Directives+define+include) |
+| 12 | [Storage Classes](./12_Storage_Classes.md) | [video](https://www.youtube.com/results?search_query=C+Storage+Classes+auto+static+extern+register) |
+| 13 | [C Standard Library Functions](./13_C_Standard_Library_Functions.md) | [video](https://www.youtube.com/results?search_query=C+Standard+Library+Functions+stdlib) |
+| 14 | [Command Line Arguments](./14_Command_Line_Arguments.md) | [video](https://www.youtube.com/results?search_query=C+Command+Line+Arguments) |
+| 15 | [C Best Practices & Interview Q&A](./15_C_Best_Practices_and_Interview_QA.md) | [video](https://www.youtube.com/results?search_query=C+Programming+Best+Practices+Interview+Questions) |
 
 ---
 
 ## 🧭 How to Navigate
 
-- Begin with **01_Basics_of_C.md** and progress in order, or jump to any topic you need.
+- Start with **01_Basics_of_C.md** and progress in order, or jump to any topic you need.
 - Each chapter includes:
   - Concise explanations
   - Code samples
   - Common pitfalls
   - Interview questions with detailed solutions
+- For visual learners, click the [video] links to supplement your reading with trusted lectures and tutorials.
 
 ---
 
